@@ -1,8 +1,5 @@
-﻿//$(function() {
-//	console.log("abc");
-//});
-
+﻿
 $(document).ready(function() {
-	console.log("def");
+	console.log("abc");
 
 });
